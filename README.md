@@ -14,7 +14,7 @@ These are based on the physiological variables which are reported in Table 1:
 However, one thing you'll immediately notice from this table is that it's hard to see how those differences could be significant if the standard deviations are really that large, 
 even with the very dubious approach of just doing a paired t-test for the informed group and ignoring the controls. 
 
-Those error bars in Figure 1 - how could they be that small? So I decided to re-plot them, calculating the standard error based on the N for the informed group being 44 and 
+Those error bars in Figure 2 - how could they be that small? So I decided to re-plot them, calculating the standard error based on the N for the informed group being 44 and 
 N for the control group being 40, as reported in the paper - so $SE = SD/\sqrt(N)$. This is what my plot looks like, and I have included the code to reproduce the plot.
 
 ![](Updated_Figure_1.png)
