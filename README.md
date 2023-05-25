@@ -3,7 +3,7 @@ This is code I wrote as an example for my fourth-year Research Methods in Psycho
 
 Crum, A. J., & Langer, E. J. (2007). Mind-set matters: Exercise and the placebo effect. Psychological Science, 18(2), 165–171. https://doi.org/10.1111/j.1467-9280.2007.01867.x
 
-This paper is widely and uncritically cited in textbooks, but when examined in detail it has some very odd quirks! One glaring issue I noticed was the error bars in Figure 1. 
+This paper is widely and uncritically cited in textbooks, but when examined in detail it has some very odd quirks! One glaring issue I noticed was the error bars in Figure 2. 
 
 ![](Crum_Figure_1_orig.png)
 
